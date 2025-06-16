@@ -1,2 +1,2 @@
 # webserver
-this is webpage uesd for webserver
+this is webpage used for webserver
